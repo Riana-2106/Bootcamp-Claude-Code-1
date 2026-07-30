@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Papan Tugas Kantor",
-  description: "Pengganti tugas yang terkubur di grup WhatsApp — satu papan, semua orang lihat status yang sama.",
+  title: "Papan Status Tim",
+  description: "Satu layar untuk lihat status kerja semua anggota tim, tanpa perlu login.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
