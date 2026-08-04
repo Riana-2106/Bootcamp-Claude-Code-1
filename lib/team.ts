@@ -4,12 +4,14 @@
 // Setelah ubah file ini, deploy ulang (push ke branch yang tersambung ke Vercel)
 // supaya perubahan tampil. Tidak perlu ubah kode lain.
 export const TEAM_MEMBERS: string[] = [
-  "Andi",
-  "Bunga",
-  "Citra",
-  "Dimas",
-  "Eka",
-  "Fajar",
-  "Gita",
-  "Hendra",
+  "Han",
+  "Lina",
+  "Ria",
+  "Robby",
+  "Ferry",
+  "Adeline",
+  "Mitha",
+  "Putri",
+  "Sella",
+  "Reinhart",
 ];
